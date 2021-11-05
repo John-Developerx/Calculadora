@@ -1,0 +1,55 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+.back{
+   background: linear-gradient(to right,#000046,#1cb5e0);
+   height: 100vh;
+   color: white;
+   font-family: serif;
+}
+
+.back > h1{
+   color: white;
+   font-family: arial;
+   text-align: center;
+   font-size: 15px;
+}
+
+
+.cal{
+   position: absolute;
+   background: linear-gradient(to right,#000000,#00009F);
+   top: 50%;
+   left:50%;
+   transform: translate(-50%, -50%);
+   border-radius: 8px;
+   padding: 20px;
+   text-align: center;
+}
+
+.b{
+   width: 50px;
+   height: 50px;
+   font-size: 20px;
+   cursor:pointer;
+   background-color: rgb(28, 28, 28);
+   color: white;
+   border: none;
+   margin: 2px;
+}
+
+.b:hover{
+   background-color:#010316A8;
+}
+
+#resul{
+   background-color: white;
+   width: 200px;
+   height: 28px;
+   margin: 5px;
+   font-size: 26px;
+   color: black;
+   text-align: right;
+   padding: 5px;
+}
