@@ -1,5 +1,5 @@
 # Autor do projeto
 John Anderson. 
 # Calculadora
-<p>Projeto simples de uma calculadora.<br>feito com meu celular.</p>
+<p>Projeto simples de uma calculadora.<br>Feito com meu celular.</p>
 
