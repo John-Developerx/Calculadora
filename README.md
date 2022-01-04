@@ -1,8 +1,11 @@
 
-# Calculadora
+# Calculator
 
-<p> Projeto simples de uma calculadora.<br>Feito com meu celular. </p>
+<h2> Inglês </h2>
+<p> Project made with the cell phone. </p>
+<h2> Português </h2>
+<p> Projeto feito com o celular. </p>
 
-# Link do projeto
+# Project
 
 <p> https://john-developerx.github.io/Calculadora/ </p>
