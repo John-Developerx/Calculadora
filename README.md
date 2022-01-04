@@ -9,3 +9,7 @@
 # Project
 
 <p> https://john-developerx.github.io/Calculadora/ </p>
+
+<h2> Technologies used </h2>
+
+<p> JavaScript | HTML5 | CSS3.
